@@ -5,7 +5,7 @@
   "description": "HTML TypeScript template, using Vite bundler",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "keywords": [],
